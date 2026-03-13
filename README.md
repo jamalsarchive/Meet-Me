@@ -4,7 +4,7 @@
 
 # Meet Me!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kode+Mono&size=22&duration=5200&pause=800&color=569CD6&background=00000000&width=800&lines=Developer+%40+LAR+10K%2B+Reviews;Joe+was+here;no+larping+allowed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kode+Mono&size=22&duration=5200&pause=800&color=00FF00&background=00000000&width=800&lines=Founder+of+JamalsArchive;Unity+Developer+%7C+4yr+Experience;Blender+Modeler+%7C+1yr+Experience;14+Years+Old;Do+not+skid+plz!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -39,22 +39,3 @@ Model Tool : Blender
 - 200+ reviews  
 - Standalone VR optimized  
 - Live production environment  
-
----
-
-## Technical Profile
-
-```csharp
-public class Jamal : Video Game Designer
-{
-    public string Engine = "Unity";
-    public string Modeling = "Blender";
-
-    public void BuildEnvironment()
-    {
-        DesignMaps();
-        DISABLELARPS();
-        Hackthedatabase();
-        Respectbro();
-    }
-}
