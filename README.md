@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="JamalKittyPFP.jpg" width="72" align="left" style="margin-right:10px"/>
+  <img src="./JamalKittyPFP.jpg" width="72" align="left" style="border-radius:50%; margin-right:10px;">
 </div>
 
 # Meet Me!
