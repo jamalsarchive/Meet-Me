@@ -29,9 +29,9 @@ Model Tool : Blender
 
 ---
 
-### Lethal Ape (Meta VR | JamalsArchive LLC)
+### Lethal Ape (Meta | JamalsArchive LLC)
 
 - 40,000+ installs  
 - 200+ reviews  
-- Standalone VR optimized  
-- Live production environment  
+- Live production released
+- Updated often 
