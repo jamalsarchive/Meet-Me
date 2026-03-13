@@ -35,3 +35,9 @@ Model Tool : Blender
 - 200+ reviews  
 - Live production released
 - Updated often 
+
+---
+
+### Other
+
+- Thanks to Joe for inspo with this idea
