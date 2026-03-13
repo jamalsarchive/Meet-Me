@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://cdn.simpleicons.org/wave/ffffff" width="72" align="left"/>
+  <img src="https://cdn.simpleicons.org/unity/ffffff" width="72" align="left"/>
 </div>
 
 # Meet Me!
