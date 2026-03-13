@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://raw.githubusercontent.com/YOURNAME/YOURREPO/main/JamalKittyPFP.jpg" width="72" align="left"/>
+  <img src="JamalKittyPFP.jpg" width="72" align="left" style="margin-right:10px"/>
 </div>
 
 # Meet Me!
