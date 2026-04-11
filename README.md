@@ -15,29 +15,20 @@
 
 ## Developer
 ``
-Github : github.com/jamalsarchive
-``
-``
-Discord User : @.__.jamal
+Discord User : @probablyjamal
 ``
 ``
 Development Software : Unity
 ``
 ``
-Model Tool : Blender
+Modeling Software : Blender
 ``
 
 ---
 
 ### Lethal Ape (Meta | JamalsArchive LLC)
 
-- 40,000+ installs  
-- 200+ reviews  
-- Live production released
-- Updated often 
-
----
-
-### Other
-
-- Thanks to Joe for inspo with this idea
+- 45,000+ installs  
+- 400+ reviews  
+- Released | Meta Horizon Store
+- Active
