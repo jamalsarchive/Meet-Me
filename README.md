@@ -4,8 +4,6 @@
 
 # Meet Me!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Kode+Mono&size=22&duration=5200&pause=800&color=00FF00&background=00000000&width=800&lines=Founder+of+JamalsArchive;Unity+Developer+%7C+4yr+Experience;Blender+Modeler+%7C+1yr+Experience;14+Years+Old;Do+not+skid+plz!)](https://git.io/typing-svg)
-
 <br/>
 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)]()
@@ -22,6 +20,9 @@ Development Software : Unity
 ``
 ``
 Modeling Software : Blender
+``
+``
+Age: 14 Years Old
 ``
 
 ---
