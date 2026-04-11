@@ -15,12 +15,15 @@
 ``
 Discord User : @probablyjamal
 ``
+
 ``
 Development Software : Unity
 ``
+
 ``
 Modeling Software : Blender
 ``
+
 ``
 Age: 14 Years Old
 ``
